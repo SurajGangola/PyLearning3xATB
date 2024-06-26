@@ -1,0 +1,7 @@
+h1=(1,2,3,4,5)
+h2=("Abac","ddf","hjjk",2)
+new_tuple=(h1,h2)
+print(new_tuple)
+print(new_tuple[0])
+print(new_tuple[1])
+print(new_tuple[0][1])
